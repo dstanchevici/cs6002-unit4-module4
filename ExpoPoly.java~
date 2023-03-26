@@ -1,0 +1,14 @@
+
+public class ExpoPoly {
+
+    public static void main (String[] argv)
+    {
+	for (double n=10; n<=100; n+=10) {
+	    // WRITE YOUR CODE HERE
+	    double poly =                  
+            double exp =                   
+	    System.out.printf ("poly=%f  exp=%f\n", poly, exp);
+	}
+    }
+
+}
